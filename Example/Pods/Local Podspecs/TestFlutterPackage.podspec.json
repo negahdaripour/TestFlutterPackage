@@ -1,0 +1,22 @@
+{
+  "name": "TestFlutterPackage",
+  "version": "0.1.0",
+  "summary": "A test package for hosted pub repository",
+  "description": "This is a useless package that I am turning into a pod if I succeed the next step is to do the same think for flutter oauth authentication module and any other module in unpub that needs to be a pod",
+  "homepage": "https://github.com/Negahdaripour/TestFlutterPackage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Negahdaripour": "negahdari.ce.shirazu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Negahdaripour/TestFlutterPackage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestFlutterPackage/Classes/**/*",
+}
